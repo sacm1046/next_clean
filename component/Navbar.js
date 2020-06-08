@@ -16,7 +16,7 @@ const Navbar = () => (
         {/* Navbar Code */}
         <nav className="navbar navbar-light bg-light navbar-expand-lg fixed-top">
             <div className="container">
-                <a className="navbar-brand" href="/#navbar">LOGO</a>
+                <a className="navbar-brand" href="/#navbar">LOGO MOD</a>
                 <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarcollapseid">
                     <span className="navbar-toggler-icon"></span>
                 </button>
